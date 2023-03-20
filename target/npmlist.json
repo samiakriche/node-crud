@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"jwt-node","dependencies":{"bcryptjs":{"version":"2.4.3"},"dotenv":{"version":"16.0.3"},"express":{"version":"4.18.2"},"jsonwebtoken":{"version":"9.0.0"},"mongoose":{"version":"7.0.2"},"mssql":{"version":"9.1.1"}}}
